@@ -39,4 +39,7 @@
 -- | Washington Nationals          | 78.0             |
 -- +-------------------------------+------------------+
 
+.mode columns
+.headers on
+
 

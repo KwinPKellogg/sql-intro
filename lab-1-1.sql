@@ -12,5 +12,8 @@
 -- | 2020 | Toronto Blue Jays                 |
 -- | 2020 | Washington Nationals              |
 -- +------+-----------------------------------+
+.mode columns
+.headers on
 
+SELECT year, name FROM teams;
 
